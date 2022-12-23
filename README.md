@@ -1,2 +1,2 @@
-# ogani-master
-Template website sale vegetable and fruit
+# ogani
+Website template, made in HTML, (S)CSS and JS
